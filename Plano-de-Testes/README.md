@@ -73,6 +73,6 @@ Experiência com testes funcionais, regressivos, exploratórios, validação de 
 
 ## Contato
 
-LinkedIn: (adicione seu link aqui)
+LinkedIn: (https://www.linkedin.com/in/kellver-quintale-31578519b/)
 
 GitHub: https://github.com/kellverQuintale
