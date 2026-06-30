@@ -1,3 +1,11 @@
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+![QA](https://img.shields.io/badge/Área-Quality%20Assurance-blue)
+![Testes](https://img.shields.io/badge/Testes-Funcionais%20%7C%20Regressivos-green)
+![BDD](https://img.shields.io/badge/BDD-Gherkin%20%2F%20Cucumber-orange)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
+# Projeto QA - Portfólio de Testes de Software
+
 # Projeto QA - Portfólio de Testes de Software
 
 ## Sobre o projeto
