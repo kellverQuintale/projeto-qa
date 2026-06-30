@@ -6,8 +6,6 @@
 
 # Projeto QA - Portfólio de Testes de Software
 
-# Projeto QA - Portfólio de Testes de Software
-
 ## Sobre o projeto
 
 Este projeto foi criado com o objetivo de demonstrar conhecimentos e práticas na área de Qualidade de Software (QA), incluindo planejamento de testes, criação de cenários, documentação de casos de teste e registro de defeitos.
